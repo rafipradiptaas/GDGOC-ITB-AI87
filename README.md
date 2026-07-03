@@ -26,4 +26,5 @@ Welcome to my submission repository for the **Google Developer Groups On Campus 
 │   ├── GDGOC_Week_1.ipynb # Jupyter Notebook source
 │   └── README.md          # Detail explanation of Week 1 tasks & insights
 └── README.md              # Main entry point documentation
+
 *For detailed tasks, explanations, and insights regarding Module 1, please head over to the Week 1 folder.*
