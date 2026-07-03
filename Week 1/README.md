@@ -1,4 +1,4 @@
-# 📊 Week 1 — Exploratory Data Analysis (EDA)
+#  Week 1 — Exploratory Data Analysis (EDA)
 
 ## Overview
 
